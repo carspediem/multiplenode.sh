@@ -44,4 +44,4 @@ echo "Binding account with ID: $IDENTIFIER and PIN: $PIN..."
 multiple-cli bind --bandwidth-download 100 --identifier $IDENTIFIER --pin $PIN --storage 200 --bandwidth-upload 100
 
 echo "Installation completed successfully!"
-echo "Dakpluto"
+echo "Prepared by Dakpluto - follow on Twitter @Dakpluto"
