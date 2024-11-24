@@ -2,7 +2,7 @@
 
 
 
-# Open Screent
+# Open Screen
       Screen -S multi
 
 # Run Script
