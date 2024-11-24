@@ -3,10 +3,10 @@
 
 
 # Open Screent
-Screen -S multi
+      Screen -S multi
 
 # Run Script
-wget -O multipl.sh https://raw.githubusercontent.com/carspediem/multiplenode.sh/refs/heads/main/multiplenode.sh && chmod +x multipl.sh && ./multipl.sh
+      wget -O multipl.sh https://raw.githubusercontent.com/carspediem/multiplenode.sh/refs/heads/main/multiplenode.sh && chmod +x multipl.sh && ./multipl.sh
 
 3. Add your ID and Password
 
